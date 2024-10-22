@@ -1,0 +1,12 @@
+body{
+    background-color: brown;
+    margin: 0px;
+}
+nav a {
+    margin-top: 5px;
+    padding: 2px;
+    font-size: 20px;
+    color: black;
+    display: flex;
+    
+}
